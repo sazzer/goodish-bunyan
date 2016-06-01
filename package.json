@@ -1,6 +1,6 @@
 {
   "name": "goodish-bunyan",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Bunyan plugin for Good",
   "main": "lib/index.js",
   "scripts": {
