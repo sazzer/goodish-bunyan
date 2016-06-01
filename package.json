@@ -1,0 +1,25 @@
+{
+  "name": "goodish-bunyan",
+  "version": "1.0.0",
+  "description": "Bunyan plugin for Good",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sazzer/goodish-bunyan.git"
+  },
+  "keywords": [
+    "good",
+    "bunyan",
+    "logging",
+    "hapi"
+  ],
+  "author": "Graham Cox <graham@grahamcox.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sazzer/goodish-bunyan/issues"
+  },
+  "homepage": "https://github.com/sazzer/goodish-bunyan#readme"
+}
